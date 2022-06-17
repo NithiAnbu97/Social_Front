@@ -2,7 +2,7 @@
   "name": "react-social",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nithianbu97.github.io/Social_Front",
+  "homepage": "http://nithianbu97.github.io/social_front",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
