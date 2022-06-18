@@ -13,7 +13,7 @@ const INITIAL_STATE = {
   username:"test",
   email:"test@gmail.com",
   profilePicture :"", 
-  coverPicture:"",
+  coverPicture:"", 
   isAdmin: false,
   followers : [],
   followings: [],
